@@ -5,6 +5,7 @@ Exploring how data becomes intelligence — from bits to learning. A seminar on 
 ### *From Human Senses to Machine Learning — Decoding How Numbers Become Intelligence*  
 
 ---
+![Alt Text](/Image%20Glimpses/Image4.jpeg)
 
 ## 📅 Seminar Details  
 - **Date:** 10th November 2025  
@@ -22,6 +23,7 @@ It bridges the gap between **human perception** and **machine learning**, showin
 Machines, unlike humans, perceive the world through mathematical operations — every image, sound, or word is broken into numbers and processed through **Linear Algebra** and **Calculus**, the twin pillars of intelligence.
 
 ---
+![Alt Text](/Image%20Glimpses/Image3.jpeg)
 
 ## 🧩 Core Concepts Covered  
 
@@ -79,6 +81,7 @@ Through Linear Algebra and Calculus, **mathematics evolves into consciousness wi
 > *“Mathematics is not only about solving problems — it’s about creating possibilities.”*
 
 ---
+![Alt Text](/Image%20Glimpses/Image1.jpeg)
 
 ## 🧮 Conceptual Summary  
 
