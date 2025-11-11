@@ -1,5 +1,8 @@
 # Mathematics of Data : A Seminar by GiGi Koneti
 Exploring how data becomes intelligence — from bits to learning. A seminar on the role of Linear Algebra and Calculus in building AI.
+![Alt Text](/Image%20Glimpses/Image5.jpeg)
+This seminar got me the "Best Presentation Award" by Dr VenuGopal ( Associate Prof, Dept. of Mathematics ,RVCE,Bangalore ) on National Educational Day 2025.
+
 
 # 🧠 Mathematics of Data: How Linear Algebra and Calculus Power AI Learning  
 ### *From Human Senses to Machine Learning — Decoding How Numbers Become Intelligence*  
